@@ -8,5 +8,4 @@ Research Data Analytics Associate @ UNC Charlotte
 - automate the process of analyzing microchemistry data
 - Gene expression data analysis in crustacean
 
-
-  ### project
+### project
