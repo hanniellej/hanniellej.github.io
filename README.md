@@ -14,7 +14,7 @@
 
 ### projects -automate the process of analyzing microchemistry data
 - Automate microchemistry data analysis in both python and R programming
-- analysis reletionship bewteen MUtidrug resistant pathogen with covid-19 death rate in the states
+- MUltidrug resistant pathogen rate vs. covid-19 death rate analysis in python
 - Gene Expression analysis in R
 - 
 
