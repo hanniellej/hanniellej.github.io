@@ -7,7 +7,7 @@
 
 ### Work experience 
 #### Office Administrator and Data analyst
-######## J&B Construction Services USA INC, FL  
+J&B Construction Services USA INC, FL  
 -Successfully managed projects, prepared reports, and crafted presentations for stakeholders and clients.
 -Oversaw office operations, ensuring efficiency and compliance with established policies.
 -Provided financial management support, including budgeting, accounts payable/receivable, and payroll.
@@ -15,9 +15,8 @@
 -Led staff management, including recruitment, training, scheduling, and performance reviews.
 -Introduced safety procedures and training, resulting in a 20% decrease in accidents.
 
-
-### Technologist                                                                                                              
-######## LabCorp Inc – RTP, NC
+### Technologist
+ LabCorp Inc – RTP, NC
 -Utilized analytical skills to interpret test results and resolve technical equipment issues.
 -Collected and analyzed laboratory data, retrieved and processed computer-generated lab reports.
 -Assisted QA and production managers in research and development and quality control.
