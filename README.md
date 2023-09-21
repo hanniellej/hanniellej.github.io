@@ -1,5 +1,5 @@
 # hanniellej.github.io
-### Data sceinetist
+### Data scientist
 ### Education
 - Bioinformatics Bs, 2020
 - Google Data Analytics certificate, 2020
@@ -7,7 +7,7 @@
 
 ### Work experience 
 #### Office Administrator and Data analyst
-J&B Construction Services USA INC, FL  
+########J&B Construction Services USA INC, FL  
 -Successfully managed projects, prepared reports, and crafted presentations for stakeholders and clients.
 -Oversaw office operations, ensuring efficiency and compliance with established policies.
 -Provided financial management support, including budgeting, accounts payable/receivable, and payroll.
@@ -17,15 +17,15 @@ J&B Construction Services USA INC, FL
 
 
 ### Technologist                                                                                                              
-LabCorp Inc – RTP, NC
+########LabCorp Inc – RTP, NC
 -Utilized analytical skills to interpret test results and resolve technical equipment issues.
 -Collected and analyzed laboratory data, retrieved and processed computer-generated lab reports.
 -Assisted QA and production managers in research and development and quality control.
 -Conducted sample preparation, data analysis, and data review to maintain quality assurance.
 -Analyzed Next Generation Sequencing (NGS) data, contributing to the identification of new COVID-19 strains.
 
-### Biology Research Lab Assistant/ Data analyst                                                           May 2019- Jun 2020
-University Of North Carolina At Charlotte – Charlotte, NC
+### Biology Research Lab Assistant/ Data analyst                                                          
+########University Of North Carolina At Charlotte – Charlotte, NC
 -Automated biological data processing using Python, R, and statistical models.
 -Executed multiple projects, driving innovations and implementing standard operating procedures.
 -Collaborated with researchers, administrators, and policymakers to provide timely research.
@@ -33,7 +33,7 @@ University Of North Carolina At Charlotte – Charlotte, NC
 -Prepared reports with data visualizations using Python, R, SQL, and SAS.
 
 
-### projects -automate the process of analyzing microchemistry data
+### Projects -automate the process of analyzing microchemistry data
 - Automate microchemistry data analysis in both python and R programming
 - MUltidrug resistant pathogen rate vs. covid-19 death rate analysis in python
 - Gene Expression analysis in R
