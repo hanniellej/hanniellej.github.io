@@ -7,7 +7,7 @@
 
 ### Work experience 
 #### Office Administrator and Data analyst
-########J&B Construction Services USA INC, FL  
+######## J&B Construction Services USA INC, FL  
 -Successfully managed projects, prepared reports, and crafted presentations for stakeholders and clients.
 -Oversaw office operations, ensuring efficiency and compliance with established policies.
 -Provided financial management support, including budgeting, accounts payable/receivable, and payroll.
@@ -17,7 +17,7 @@
 
 
 ### Technologist                                                                                                              
-########LabCorp Inc – RTP, NC
+######## LabCorp Inc – RTP, NC
 -Utilized analytical skills to interpret test results and resolve technical equipment issues.
 -Collected and analyzed laboratory data, retrieved and processed computer-generated lab reports.
 -Assisted QA and production managers in research and development and quality control.
@@ -25,7 +25,7 @@
 -Analyzed Next Generation Sequencing (NGS) data, contributing to the identification of new COVID-19 strains.
 
 ### Biology Research Lab Assistant/ Data analyst                                                          
-########University Of North Carolina At Charlotte – Charlotte, NC
+######## University Of North Carolina At Charlotte – Charlotte, NC
 -Automated biological data processing using Python, R, and statistical models.
 -Executed multiple projects, driving innovations and implementing standard operating procedures.
 -Collaborated with researchers, administrators, and policymakers to provide timely research.
