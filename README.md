@@ -15,16 +15,16 @@ J&B Construction Services USA INC, FL
 -Led staff management, including recruitment, training, scheduling, and performance reviews.
 -Introduced safety procedures and training, resulting in a 20% decrease in accidents.
 
-### Technologist
- LabCorp Inc – RTP, NC
+#### Technologist
+LabCorp Inc – RTP, NC
 -Utilized analytical skills to interpret test results and resolve technical equipment issues.
 -Collected and analyzed laboratory data, retrieved and processed computer-generated lab reports.
 -Assisted QA and production managers in research and development and quality control.
 -Conducted sample preparation, data analysis, and data review to maintain quality assurance.
 -Analyzed Next Generation Sequencing (NGS) data, contributing to the identification of new COVID-19 strains.
 
-### Biology Research Lab Assistant/ Data analyst                                                          
-######## University Of North Carolina At Charlotte – Charlotte, NC
+#### Biology Research Lab Assistant/ Data analyst                                                          
+University Of North Carolina At Charlotte – Charlotte, NC
 -Automated biological data processing using Python, R, and statistical models.
 -Executed multiple projects, driving innovations and implementing standard operating procedures.
 -Collaborated with researchers, administrators, and policymakers to provide timely research.
