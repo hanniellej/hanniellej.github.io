@@ -32,7 +32,7 @@ University Of North Carolina At Charlotte – Charlotte, NC
 -Prepared reports with data visualizations using Python, R, SQL, and SAS.
 
 
-### Projects -automate the process of analyzing microchemistry data
+### Projects -
 - Automate microchemistry data analysis in both python and R programming
 - MUltidrug resistant pathogen rate vs. covid-19 death rate analysis in python
 - Gene Expression analysis in R
